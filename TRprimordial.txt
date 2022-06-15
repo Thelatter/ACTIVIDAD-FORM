@@ -1,0 +1,31 @@
+Analisis y documentacion
+
+Base de Datos
+
+Front-End
+Bisual Studio Code
+Crear Vistas
+Control de Versiones  Git -  Git Lab
+
+Back-End
+
+Hacer un formulario con custom Hook que cuente 
+con los campos de: Nombre, email, password .
+ Y tambien que muestre por consola del 
+navegador el objeto del formulario.
+ Guiarse principalmente de la sección
+ 9 (Profundizando Hooks)  del vídeo 111.
+ Formulario con Custom Hooks
+
+container
+nombre
+gmail
+contrasena
+
+
+
+
+
+
+
+
